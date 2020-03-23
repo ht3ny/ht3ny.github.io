@@ -27,6 +27,7 @@ url: "https://ht3ny.github.io" # the base hostname & protocol for your site, e.g
 # twitter_username: jekyllrb
 github_username: ht3ny
 
+permalink: /:categories/:year/:month/:day/:title:output_ext
 # Build settings
 # theme: minima
 remote_theme: broccolini/swiss
