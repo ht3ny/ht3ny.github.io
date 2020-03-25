@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm making this blog, just to keep my ranting and discovery documented
-These are my interests:
-- Full Stack Programming
+I'm making this blog just to keep my opinion & stories documented  
+A software developer by occupation but personally interested in many things    
+Some of my interests:  
+- Full Stack Software Developemnt
 - Cooking
-- Medicine (recent interest due to personal experience from Covid-19)
+- Medical Research (due to experience from Covid-19)
+
+Feel free to send me feedback
