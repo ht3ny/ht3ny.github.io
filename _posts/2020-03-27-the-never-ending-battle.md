@@ -1,4 +1,7 @@
 ---
+layout: post
+title: "The Never Ending Battle"
+date: 2020-03-27 20:12:00 +1100
 categories: blog
 ---
 There’s a war that human has never stopped fighting. The tragedy and loss of life is even greater  than the tragic result of World War I and II combined. It’s a holy war filled with mythology and superstition. It’s the fight between human and pathogens. 
