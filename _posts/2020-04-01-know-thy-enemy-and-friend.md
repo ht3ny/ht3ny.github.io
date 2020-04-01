@@ -88,7 +88,7 @@ This led some antiviral medication to be a very costly, because the market for s
 | [Generic liponavir/ritonavir][info2]           | $2.34                   | for retrovirus infection ,e.g: HIV-1                                                              |
 | [Penicillin v Postassium][info1]               | $0.86 max               | Bacterial Infection, Clostridioides difficile Infection, Cutaneous Bacillus anthracis, and others |
 
-<sup>source: drugs.com</sup>
+<sup>source: [drugs.com](https://www.drugs.com)</sup>
 
 ### Virus fights back
 Lastly there's a challenge presented by virus lifecycle. There are 2 main avenues for virus to undergo significant mutation: [antigenic shift](https://en.wikipedia.org/wiki/Antigenic_shift) and [antigenic drift](https://en.wikipedia.org/wiki/Antigenic_drift).
