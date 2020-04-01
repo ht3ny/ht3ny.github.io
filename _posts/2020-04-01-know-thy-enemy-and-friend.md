@@ -109,6 +109,8 @@ When weighing the time taken for developing new vaccine or antiviral, it is safe
 - [https://www.telesurenglish.net/news/more-than-40-nations-ask-cuba-for-interferon-alpha-b-20200327-0004.html][news1]
 - [https://www.rt.com/russia/479581-russia-health-ministry-coronavirus-vaccine/][news2]
 - [https://www.cdc.gov/vaccinesafety/concerns/concerns-history.html][info4]
+- [https://www.nature.com/articles/nrd703][info5]
+- [https://www.virology.ws/2009/05/10/the-error-prone-ways-of-rna-synthesis][info6]
 
 [journal1]: https://www.ncbi.nlm.nih.gov/pubmed/11338678
 [journal2]: https://www.elsevier.es/es-revista-medicina-universitaria-304-articulo-history-progress-antiviral-drugs-from-S166557961500037X
@@ -118,3 +120,5 @@ When weighing the time taken for developing new vaccine or antiviral, it is safe
 [info2]: https://www.drugs.com/price-guide/lopinavir-ritonavir
 [info3]: https://www.drugs.com/price-guide/kaletra
 [info4]: https://www.cdc.gov/vaccinesafety/concerns/concerns-history.html
+[info5]: https://www.nature.com/articles/nrd703
+[info6]: https://www.virology.ws/2009/05/10/the-error-prone-ways-of-rna-synthesis
