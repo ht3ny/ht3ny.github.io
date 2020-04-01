@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Know Thy Enemy And Friend (WIP)"
+title: "Know Thy Enemy And Friend"
 date: 2020-04-01 17:1:00 +1100
 categories: blog
 ---
