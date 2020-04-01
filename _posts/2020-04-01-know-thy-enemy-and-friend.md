@@ -30,6 +30,8 @@ Both RNA and DNA are genetic materials and it can undergoes copying process to r
 <sup>source: [virology.ws](https://www.virology.ws/2009/05/10/the-error-prone-ways-of-rna-synthesis)</sup>
 
 Here's a list of well known DNA and RNA virus
+
+
 | Genetic Material | Example of Virus                                  |
 |------------------|---------------------------------------------------|
 | DNA              | smallpox, polio, chickenpox, herpes, Epstein-Barr |
@@ -84,11 +86,13 @@ An effective antiviral in lab settings doesn't always have the same efficacy in 
 
 This led some antiviral medication to be a very costly, because the market for such antiviral is considerably niche and pharmaceutical company need to recoup the cost of development, hence such antivirals are not usually mass produced. 
 
+
 | Medication                            | Estimated cost per unit | Usage                                                                                             |
 |---------------------------------------|-------------------------|---------------------------------------------------------------------------------------------------|
 | Branded liopnavir/ritonavir (Kaletra) | $8.99 min               | for retrovirus infection ,e.g: HIV-1                                                              |
 | Generic liponavir/ritonavir           | $2.34                   | for retrovirus infection ,e.g: HIV-1                                                              |
 | Penicillin v Postassium               | $0.86 max               | Bacterial Infection, Clostridioides difficile Infection, Cutaneous Bacillus anthracis, and others |
+
 <sup>source: drugs.com</sup>
 
 ### Virus fights back
