@@ -4,6 +4,12 @@ title: "Know Thy Enemy And Friend (WIP)"
 date: 2020-04-01 17:1:00 +1100
 categories: blog
 ---
+<style>
+    .tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+    }
+</style>
+
 In previous post, we came to a realization that we haven’t found the silver bullet against pathogenic virus. So if one wish to find the silver bullet, it is best to study and understand what is virus.
 
 ## What Is Virus
