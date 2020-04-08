@@ -1,0 +1,19 @@
+
+/* customized blockquote */
+.prose blockquote { 
+  line-height: 1.375; 
+  padding-left: 1.25em; 
+  margin: 1.6em 0 1.6em -0.7em; 
+  border-left: 0.5em solid #ddd; 
+  font-style: italic; 
+}
+.prose blockquote p { font-size: 1.2rem; }
+
+@media (min-width: 52em) { 
+  .prose blockquote { 
+    padding-left: 32px; 
+    margin: 2em 0 2em -1.2em; 
+    max-width: 110%; 
+  }
+  .prose blockquote p { font-size: 1.5rem; } 
+}
