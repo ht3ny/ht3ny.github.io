@@ -1,0 +1,10 @@
+---
+layout: null
+search: exclude
+---
+{
+  "entries": {
+    "H9Cell": "Human origin lymphoblast (part of white blood cell) that are used to test virus infectivity",
+    "ReverseTranscriptase": "An enzyme used to generate complementary DNA (cDNA) from an RNA. Vital for retrovirus's replication"
+  }
+}
