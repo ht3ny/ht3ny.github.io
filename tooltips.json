@@ -5,6 +5,11 @@ search: exclude
 {
   "entries": {
     "H9Cell": "Human origin lymphoblast (part of white blood cell) that are used to test virus infectivity",
-    "ReverseTranscriptase": "An enzyme used to generate complementary DNA (cDNA) from an RNA. Vital for retrovirus's replication"
+    "ReverseTranscriptase": "An enzyme used to generate complementary DNA (cDNA) from an RNA. Vital for retrovirus's replication",
+    "knockoutMouse": "A genetically modified mouse which its gene has been modified. Typically as laboratory test animal",
+    "inVivo": "studies that conducted using components of an organism that have been isolated from their usual biological surroundings, such as microorganisms, cells, or biological molecules",
+    "inVitro": "Studies that are conducted in which the effects of various biological entities are tested on whole, living organisms or cells",
+    "currentDensity" : "the amount of electric current flowing per unit cross-sectional area of a material",
+    "TENS": "Transcutaneous Electrical Nerve Stimulation. TENS units work by delivering small electrical impulses through electrode. Usually used for treating pain"
   }
 }
