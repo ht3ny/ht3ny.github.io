@@ -10,6 +10,9 @@ search: exclude
     "inVivo": "studies that conducted using components of an organism that have been isolated from their usual biological surroundings, such as microorganisms, cells, or biological molecules",
     "inVitro": "Studies that are conducted in which the effects of various biological entities are tested on whole, living organisms or cells",
     "currentDensity" : "the amount of electric current flowing per unit cross-sectional area of a material",
-    "TENS": "Transcutaneous Electrical Nerve Stimulation. TENS units work by delivering small electrical impulses through electrode. Usually used for treating pain"
+    "TENS": "Transcutaneous Electrical Nerve Stimulation. TENS units work by delivering small electrical impulses through electrode. Usually used for treating pain",
+    "AC": "<img src=\"/assets/images/640px-Types_of_current.png\" style=\"width:16em;\"></img><br/>an electric current that reverses its direction many times a second at regular intervals, typically used in power supplies",
+    "DC": "<img src=\"/assets/images/640px-Types_of_current.png\" style=\"width:16em;\"></img><br/>unidirectional flow of an electric charge, typically used in power supplies",
+    "erythorcyte": "red blood cell"
   }
 }
