@@ -12,21 +12,23 @@ categories: blog
 
 ####  ** _Note: For Proof-Read Only_
 
-In previous post, we established that a mutating virus presents a unique challenge to drug developer. So intuitively, I try to look into a viable solution that would be effective against viral outbreak regardless of the mutational factor. Understanding that vaccine and antiviral tends to be specific, I explore the possibility of a more broad spectrum solution, one that harms invading virus and possibly the host at the same time but is much more harmful to the virus. When outside of the host, virus is vulnerable to many things. If one wish to destroy virus in a petri dish , one can:
+In previous post, we established that a mutating virus presents an insurmountable challenge. Understanding that vaccine and antiviral tends to be specific about their target, we need to consider a broad spectrum solution that could nullify the mutational advantage of virus. It would be a solution that harms the virus and tolerable by the host. 
+
+Outside of the host, virus is vulnerable to many things. Some of the most common methods are:
 - apply bleach to viral solution, 
 - heat the viral solution to 60&#8451; or even higher, 
-- use electricity to cause extreme electroporation across the membrane hence rupturing it
-- radiate with ultraviolet light to break the virus gene
+- use electricity to cause extreme electroporation across its membrane,
+- ultraviolet light radiation to damage the virus inner gene
 
-Intuitively, the candidates are chemical, heat, radiation, and electricity. It is easy to see there's many things that can kill a virus outside the host, but it's completely different matter about killing virus inside the host. One may think any of the potential solutions mentioned is more likely to kill **both** the virus and the host. But as I look further into each of the candidates, I suprisingly found a viable candidate: electricity
+Intuitively, the potential solutions would be based on chemical, heat, radiation, and electricity. It is an easy matter to destroy a virus outside the host, but it is completely a different matter when trying to destroy virus inside the host. One may think any of the potential solutions mentioned is more likely to kill **both** the virus and the host. But as I look further into each of the solutions, I suprisingly found a viable candidate: electricity.
 
 ## Biocompatible Electricity
 
-Biocompatible electricity is best described as electricity exposure in which human body can tolerate for long period. The term of biocompatible electricity was first mentioned in 1991 study done at Albert Einstein College of Medicine by a team of 3 researchers: Professor William D. Lyman, Dr Irwin R. Merkatz, and Dr. Steven G. Kaali. 
+Biocompatible electricity is best described as electricity exposure that can damage pathogens while tolerable by human body for long period. The term of biocompatible electricity was first mentioned in 1991 paper written at Albert Einstein College of Medicine by a team of 3 researchers: Professor William D. Lyman, Dr Irwin R. Merkatz, and Dr. Steven G. Kaali. 
 
-Their paper titled [_"Biocompatible Electric Current Attenuates HIV Infectivity"_][journal-LymanAtAl] describe <span class="tooltip" data-key="inVitro">in vitro</span> experiments where direct electric current at microcurrent intensity was applied to a solution of HIV-1 virus and <span data-key="H9Cell" class="tooltip">[H9 cells][info1]</span> separately. The study found a **statistically significant reduction in <span class="tooltip" data-key="ReverseTranscriptase">[reverse transcriptase][info2]</span>** activity when HIV virus was mixed with the H9 cells. This translates to **attenuated infectivity** of HIV virus. [Lyman At Al][journal-LymanAtAl] hypothesised that electric current might somehow damaged reverse transcriptase enzyme, hence rendering HIV-1 virus unable to replicate inside the H9 cells. On the other hand, H9 cells treated with similar treatment were still viable.
+The paper titled [_"Biocompatible Electric Current Attenuates HIV Infectivity"_][journal-LymanAtAl] describe <span class="tooltip" data-key="inVitro">in vitro</span> experiments where direct electric current at microcurrent intensity was applied to a solution of retrovirus HIV-1 virus and <span data-key="H9Cell" class="tooltip">[H9 cells][info1]</span> separately. Lyman et al. found a **statistically significant reduction in <span class="tooltip" data-key="ReverseTranscriptase">[reverse transcriptase][info2]</span>** activity when HIV virus was mixed with the H9 cells. This directly translates to **reduced or attenuate infectivity** of HIV virus. [Lyman et al.][journal-LymanAtAl] hypothesised that electric current might somehow damaged reverse transcriptase enzyme, hence rendering HIV-1 virus unable to replicate inside the H9 cells. On the other hand, H9 cells treated with similar treatment were still viable.
 
-Below are some excerpts and images taken from the paper that describe the findings:
+Below are an excerpt and graph from [Lyman et al][journal-LymanAtAl] paper that describe the findings:
 > ### Reverse Transcriptase Assays  
 >  
 > The direct electric currents to which HIV was exposed also reduced reverse transcriptase activity. **.......**  
@@ -35,19 +37,19 @@ near ablation of reverse transcriptase acivity was seen with exposure of the vir
 An analysis of variance indicate the decrease in reverse transcriptase activity was statistically significant (p < 0.0001)
 
 <img src="/assets/images/hiv1_infectivity_h9_viability.jpg" height="395" width="262"/><br/>
-<sup>source: [Lyman at al][journal-LymanAtAl]</sup>
+<sup>source: [Lyman et al.][journal-LymanAtAl]</sup>
 
-It is fair to say that the findings of electric current can damage virus ability to infect might be only applicable to retrovirus as one of a kind. But the principle of eliminating / disabling virus using electricity has also been used and studied in botany. There are <span class="tooltip" data-key="inVivo">in vivo</span> studies that demonstrate electricity is shown to be able to eliminate virus in [potatoes][journal2], [banana][journal5], [yellow bean cormels][journal3], and [garlic][journal4] while leaving the seddlings healthier and free of viral infection. Although these botany studies uses milliAmpere current  which is 1000 times of &#xb5;A, but it gives credence that certain level of electricity can damage to virus in general, and more over it was achieved in <span class="tooltip" data-key="inVivo"> in vivo</span>. 
+It is fair to say that the discovery of electric current can attenuate HIV-1 infectivity as one of a kind. However the principle of eliminating / disabling virus using electricity has also been used and studied extensively in botany. 
+There are <span class="tooltip" data-key="inVivo">in vivo</span> studies that demonstrate how electricity is used to eliminate virus in [potatoes][journal2], [banana][journal5], [yellow bean cormels][journal3], and [garlic][journal4]. All these studies conclusively shows the electrical treatment leave the seddlings healthier and free of viral infection. Although these botany studies uses milliAmpere current, it gives credence that electricity can indeed damage to virus in general, and what's more important it was achieved as <span class="tooltip" data-key="inVivo">in vivo</span> treatement. 
 
-Also worth mentioning is a collaboration paper between Novo Biotic Limited, NovoCure Ltd and Technion-Israel Institute of Technology published in American Society for Microbiology in Aug 2010. The paper published by [Giladi at al titled: _"Mircobial Growth Inhibition by Alternating Electric Fields in Mice with Pseudomonas aeruginosa Lung Infection"_][journal-GiladiAtAl], explored the effect of low intensity but high frequency (in MHz range) <span class="tooltip" data-key="AC">AC</span> electric fields for inhibiting bacterial growth on mice's lung.
+Also worth mentioning is a collaboration paper between Novo Biotic Limited, NovoCure Ltd and Technion-Israel Institute of Technology. Published in American Society for Microbiology journal in Aug 2010 and authored by [Giladi et al.][journal-GiladiAtAl]m the paper titled: _"Mircobial Growth Inhibition by Alternating Electric Fields in Mice with Pseudomonas aeruginosa Lung Infection"_ explored the effect of low intensity and high frequency (in MHz range) <span class="tooltip" data-key="AC">AC</span> electric fields for inhibiting bacterial growth on mice's lung.
 
-[Giladi at al][journal-GiladiAtAl] found that alternating electric field alone has inhibitory effect on bacterial growth
-Even though [Giladi at al][journal-GiladiAtAl]'s study was on inhibiting bacterial growth using electrical field, but an important fact need to be drawn here are that the study was done as <span class="tooltip" data-key="inVivo">in vivo</span> study on anesthesized mice and it was applied to the chest regions (where electrically sensistive heart is located). Furthermore the electric field was applied for 48 hours with 2 breaks in between to check on mice's condition. This shows it is feasible to conduct similar <span class="tooltip" data-key="inVivo">in vivo</span> study for the effect of biocompatible electricity.
+[Giladi et al.][journal-GiladiAtAl] discovered that alternating electric field alone has inhibitory effect on bacterial growth and its effect can be enchanced with the use of antibiotic treatement. Even though the paper studied inhibiting effect on bacterial growth, the interesting fact is that the experiement was done as <span class="tooltip" data-key="inVivo">in vivo</span> study on anesthesized mice and electric field was in fact applied to the chest regions where electrically sensistive heart is located. Furthermore the electric field was applied for 48 hours with 2 breaks in between to ensure mice's condition. This shows that it is feasible to conduct similar <span class="tooltip" data-key="inVivo">in vivo</span> study on biocompatible electricity ability to inhibit viral disease.
 
 <img src="/assets/images/GiladiAtAl_setup.png" height="600" width="868"/><br />
 <sup>source: [Giladi at al][journal-GiladiAtAl]</sup>
 
-[Lyman at al][journal-LymanAtAl] concluded that the attenuation effect is proportional to the strength and time exposure. But if one were to apply the same study on whole human body, we need to look at specifically <span class="tooltip" data-key="currentDensity">current density</span> instead of total current, because that's what most likely matter down at cellular level. So we should reconclude that **attenuation effect of electricity is directly porportional to current density and time exposure** 
+[Lyman et al.][journal-LymanAtAl] concluded that the attenuation effect is directly proportional to the current's inensity and time exposure. But if one were to apply the same study on whole organism, we need to look at specifically <span class="tooltip" data-key="currentDensity">current density</span> instead of total current, because that's what most likely matter down at cellular level. So we can also reconclude that **attenuation effect of electricity is directly porportional to current density and time exposure.** 
 
 Exceprt from [Lyman at al][journal-LymanAtAl] describing the setup:
 > ## Electrical Treatment of HIV   
@@ -58,7 +60,7 @@ The cross sectional area would be 8.32mm x 1.56mm = 12.9 mm<sup>2</sup>. With cu
 
 ## How electricity affect humans body?
 
-Now that we understood the effect of biocompatible electricity on virus from past studies, we need to first understand how electricity affect human's body
+Now that we understood the effect of biocompatible electricity on virus from past studies, we need to first understand how electricity affect human's body.
 
 First, we look into the fatal side effect of electricity. Then we look at the possible side effect of prolonged exposure of electricity to human body
 
@@ -89,7 +91,7 @@ Now that we establish the non-fatal limit of electricity on human body, we need 
 - [transfection][info5] via [electroporation][info6]
 - potential [biocides][info7]
 
-First is [electrolysis][info4]. Up to 60% of the body is made of water (H<sub>2</sub>O). One of the well known effect of applying electricty on water is electrolysis. When constant static electric field is applied to water, each Hydrogen and Oxygen's pole end of water will be attracted to polar opposite of the electric field. If enough strength is applied, it will break the molecular bond, and form hydrogen and oxygen gas on each end of the electric field. The theoretical decomposition potential of water is 1.23V, although in practice you would higher voltage[[info][info9]]
+First is [electrolysis][info4]. Up to 60% of the body is made of water (H<sub>2</sub>O). One of the well known effect of applying electricty on water is electrolysis. When constant static electric field is applied to water, each Hydrogen and Oxygen's pole end of water will be attracted to polar opposite of the electric field. If enough strength is applied, it will break the molecular bond, and form hydrogen and oxygen gas on each end of the electric field. The theoretical decomposition potential of water is 1.23V, although in [practice][info9] you would higher voltage.
 
 The effect of electrolysis on blood has been used, for example: treating [aneurysm][info10] by closing the sac with blood clot using [Guglielmi Detachable Coil][info11]. Electrolysis is also one of the utilised mode in [electrosurgery][info12].
 
@@ -97,19 +99,19 @@ Second is [transfection][info5] via [electroporation][info6] method. Direct elec
 
 Electroporation is widely used in microbiology research to introduce substance into cells, for example: for producing <span class="tooltip" data-key="knockoutMouse">[knockout mices][info13]</span> in medical research or to introduce new coding DNA into cell for genetic research. Typical voltage requirement for electroporation is a very short-pulsed but high voltage (1 to 2 kV).
 
-Third is potential biocides. In the practical application of electricity onto human body, metallic electrodes are often used. When electric current flows metal comes in contact with internal body's fluids (like for example: blood), unwanted chemical compound and formation of metalic ion could be formed at the electrode surface. Overtime, such chemical release can be poisonous for body. Most common metal used as electrode are platinum, copper, and stainless steel. 
+Third is potential biocides. In practice, metallic electrodes may be inserted and comes in contact with inner body parts. When electric current flows metal comes in contact with internal body's fluids (like for example: blood), unwanted chemical compound and formation of metalic ion could be formed at the electrode surface. Overtime, such chemical release can be poisonous for body. Most common metal used as electrode are platinum, copper, and stainless steel. 
 
 ## Minimising biocompatible electricity side effect
 
-Lyman et al. study showed that an average of 94% infectivity's attenuation of HIV-1 virus can be achieved by 100 &#xb5;A direct current (current density of ~ 7.7 &#xb5;A/mm<sup>2</sup>) for 6 minute exposure. Using this number as a guide, let us see how we can minimise the side effect, and asses whether 6 minutes exposure of 7.7&#xb5;A/mm<sup>2</sup>  is reasonably safe.
+Lyman et al. study showed that an average of 94% infectivity's attenuation of HIV-1 virus can be achieved with current density of ~ 7.7 &#xb5;A/mm<sup>2</sup> for 6 minute exposure. Using this number as a guide, let us see how we can minimise the side effect, and asses whether 6 minutes exposure is reasonably safe.
 
-The fatal risk is obvious and can be managed safely by limiting the strength and avoiding high risk area.  Electrolysis effect can be minimised by minimising time exposure and also using <span data-key="AC" class="tooltip">AC</span> field with lowest acceptable strength. With AC field, the polarity switched over time hence not very effective at electrolysing water. Given the use of AC field, we can also safely used an innert or non invasive electrode to prevent biocides release.
+The fatal risk is obvious and can be managed safely by limiting the current's intensity and avoiding high risk area. Electrolysis effect can be minimised by reducing time exposure and using alternating electric field (refered herby as <span class="tooltip" data-key="AC">AC</span> field) with lowest acceptable amplitude. With AC field, the polarity switched over time hence not very effective at electrolysing water. With alternating electric field, we can also use an inert or non invasive electrode to prevent biocides release.
 
-Understandably by using AC field, we also need to minimise the effect of transfection. To do this we need to look into [Xie at al's _Study of mechanisms of electric field-induced DNA transfection II_][journal-XieAtAl]. Xie at al investigated the feasibility of using lower strength AC electric field instead of the usual high powered DC field to achieve DNA transfection while keeping the targeted cell viable. 
+Understandably by using AC field, we also need to minimise the effect of transfection. To do this we need to look into [Xie et al's _Study of mechanisms of electric field-induced DNA transfection II_][journal-XieAtAl]. Xie at al. investigated the feasibility of using lower strength AC electric field instead of the usual high powered DC field to achieve DNA transfection while keeping the targeted cell viable. 
 
-[Xie at al][journal-XieAtAl] found for a given fixed strength AC signal, the transfection efficiency follows an asymmetric bell curve where transfection efficiency diminished, as frequency applied is higher than the peak. Higher amplitude also means higher peak transfection frequency. [Xie at al][journal-XieAtAl] also demonstrated that transfection efficiency goes from low to high proportionally as they switched from triangular to sinusoidal to square wave.
+[Xie et al.][journal-XieAtAl] found for a fixed amplitude AC signal, the transfection efficiency follows an asymmetric bell curve where transfection efficiency goes to a peak and then diminished as frequency applied is higher than the peak frequency. [Xie et al.][journal-XieAtAl] also found that transfection efficiency differs for different type of AC field (triangular, sinusoidal, and square wave) with triangular being the lowest and square wave the highest.
 
-Furthermore, [Xie at al][journal-XieAtAl] also quoted similar study where low power, low frequency AC field were applied to human's <span data-key="erythorcyte" class="tooltip">erythrocytes</span> for hours does not undergoes significant physiological or morphological effect, and any effect on its membrane is reversible.
+[Xie at al][journal-XieAtAl] also quoted similar study where low power, low frequency AC field were applied to human's <span data-key="erythorcyte" class="tooltip">erythrocytes</span> for hours and there are no significant physiological or morphological effect on the erythorcyte.
 
 These are the excerpt and transfection graph from [Xie at al][journal-XieAtAl]:
 > Previously, Teissie and Tsong (30) and Serpersu and Tsong (31) have shown that reversible activation of certain membrane channels or transport systems may be achieved using low-amplitude, low-frequency ac fields. Electric fields as small as 16 V/cm have been shown to induce membrane conductance, and these effects were completely reversible. Human erythrocytes treated with such ac fields for hours
@@ -117,14 +119,14 @@ were shown to have normal shape, volume, and permeabilities to K+ and Na+ (30, 3
 <br />
 
 ![Transfection effficiency vs frequency](/assets/images/XieAtAl_transfection_vs_freq.png)
-<sup>source :[Xie At Al][journal-XieAtAl]</sup>
+<sup>source :[Xie et al.][journal-XieAtAl]</sup>
 
 ## So what we have got so far
 
 So understanding all these requirements and theory, we can summarise the feasibility and criteria for practical application:
-- current density strength of 3.85 - 7.7 &#xb5;A/mm<sup>2</sup> at targeted area
-- total current shouldn't exceed 10 mA or even lower for patient with underlying neurological disease
-- the electric current shouldn't past brain or heart, and potentially unusable for patients with pacemaker/bionic device
+- Current density of 3.85 - 7.7 &#xb5;A/mm<sup>2</sup> at targeted area
+- Total current shouldn't exceed the fatal milliAmpere strength. It may be even lower for patient with underlying neurological disease
+- the electric current shouldn't past brain or heart. Pacemaker/bionic device users are identified as high risk.
 - To minimise transfection and electrolysis, AC field (triangular, sinusoidal, or square wave) should be used
 
 The method of delivery availables are invasive/intravenous, current delivery via external electrode, and electric current induction. Each have its advantages and limitation.
@@ -134,7 +136,7 @@ The method of delivery availables are invasive/intravenous, current delivery via
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Invasive / intravenous                  | - bionic implant<br>- intravenous electrode (inert electrode such as ceramic coated electrode is used) | - can be localized to target area<br>- better control of power requirement hence minimizing risks<br>- potentially feasible for pacemaker/bionic device user                                         | - Invasive method tends require specialist<br>- Specialist need means it may not be feasible for treating huge number of patient                                                                                                                                                                                                                                    |
 | Current delivery via external electrode | - TENS<br>- platinum or stainless steel simple electrode                                               | - simple electrode<br>- no invasive technique required, hence suitable to treat huge number of patients                                                                                              | - require breakdown of skin natural resistance with using adhesive conductive gel<br><br>- may only affect area close to skin, such as nerve, lymph node at armpit, or arteries near the wrist<br>- depending on the location of electrode, the power requirement may vary<br>- not suitable on wounds, area near heart or brain, and pacemaker/bionic device users |
-| Electric inductance                     | - electrical stimulation on lung cells with electrode similar to [Giladi et al][journal-GiladiAtAl]                          | - simple electrode<br>- no invasive technique required<br><br>- magnetic field could be directed and localized to affect the target area<br>- still feasible for treating huge number of patients    | - caution still needed if applying near brain or heart<br>- to achieve the target current density of 3.85 to 7.7 &#xb5;<br>A/mm<sup>2</sup> on target area, it require in vivo studies to get effective parameters                                                                                                                                                  |
+| Electric inductance                     | - electrical stimulation on lung cells with electrode similar to [Giladi et al.][journal-GiladiAtAl]                          | - simple electrode<br>- no invasive technique required<br><br>- magnetic field could be directed and localized to affect the target area<br>- still feasible for treating huge number of patients    | - caution still needed if applying near brain or heart<br>- to achieve the target current density of 3.85 to 7.7 &#xb5;<br>A/mm<sup>2</sup> on target area, it require in vivo studies to get effective parameters                                                                                                                                                  |
 
 ## Author's Conclusion
 
