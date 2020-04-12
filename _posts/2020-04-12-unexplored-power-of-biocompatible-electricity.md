@@ -26,7 +26,7 @@ Intuitively, the potential solutions would be based on chemical, heat, radiation
 
 Biocompatible electricity is best described as electricity exposure that can damage pathogens while tolerable by human body for long period. The term of biocompatible electricity was first mentioned in 1991 paper written at Albert Einstein College of Medicine by a team of 3 researchers: Professor William D. Lyman, Dr Irwin R. Merkatz, and Dr. Steven G. Kaali. 
 
-The paper titled [_"Biocompatible Electric Current Attenuates HIV Infectivity"_][journal-LymanAtAl] describe <span class="tooltip" data-key="inVitro">in vitro</span> experiments where direct electric current at microcurrent intensity was applied to a solution of retrovirus HIV-1 virus and <span data-key="H9Cell" class="tooltip">[H9 cells][info1]</span> separately. Lyman et al. found a **statistically significant reduction in <span class="tooltip" data-key="ReverseTranscriptase">[reverse transcriptase][info2]</span>** activity when HIV virus was mixed with the H9 cells. This directly translates to **reduced or attenuate infectivity** of HIV virus. [Lyman et al.][journal-LymanAtAl] hypothesised that electric current might somehow damaged reverse transcriptase enzyme, hence rendering HIV-1 virus unable to replicate inside the H9 cells. On the other hand, H9 cells treated with similar treatment were still viable.
+The paper titled [_"Biocompatible Electric Current Attenuates HIV Infectivity"_][journal-LymanAtAl] described an <span class="tooltip" data-key="inVitro">in vitro</span> experiment where direct electric current at microcurrent intensity was applied to a solution of retrovirus HIV-1 virus and <span data-key="H9Cell" class="tooltip">[H9 cells][info1]</span> separately. Lyman et al. found a **statistically significant reduction in <span class="tooltip" data-key="ReverseTranscriptase">[reverse transcriptase][info2]</span>** activity when the viral solution was added to H9 cells' solution. This directly translates to **reduced or attenuate infectivity** of HIV virus. [Lyman et al.][journal-LymanAtAl] hypothesised that electric current might somehow damaged reverse transcriptase enzyme, hence rendering HIV-1 virus unable to replicate inside the H9 cells. On the other hand, H9 cells treated with similar treatment were still viable.
 
 Below are an excerpt and graph from [Lyman et al][journal-LymanAtAl] paper that describe the findings:
 > ### Reverse Transcriptase Assays  
@@ -51,7 +51,7 @@ Also worth mentioning is a collaboration paper between Novo Biotic Limited, Novo
 
 [Lyman et al.][journal-LymanAtAl] concluded that the attenuation effect is directly proportional to the current's inensity and time exposure. But if one were to apply the same study on whole organism, we need to look at specifically <span class="tooltip" data-key="currentDensity">current density</span> instead of total current, because that's what most likely matter down at cellular level. So we can also reconclude that **attenuation effect of electricity is directly porportional to current density and time exposure.** 
 
-Exceprt from [Lyman at al][journal-LymanAtAl] describing the setup:
+First let us try to determine the current density in Lyman et al. elow is an exceprt from [Lyman at al][journal-LymanAtAl] describing the setup:B
 > ## Electrical Treatment of HIV   
 > The RF strain of HIV (AIDS Reagent Program) was cryopreserved prior to treatment at -70&#8451;. For treatment, a sample of virus was thawed and maintained on ice at 4&#8451;. Ten microliters (&#xb5;L) of HIV at a concentration of 10<sup>5</sup> infectious particles per mL were placed into a chamber which included a pair of platinum electrodes 1 mm apart permanently mounted into a well 1.56 mm in length and 8.32 mm in depth equal to 12.9 &#xb5;L volume capacity. The chamber was connected to a power supply capable of creating constant direct current.The viral aliquots were exposed to direct currents ranging from 0 microamperes (&#xb5;A) for up to 12 minutes to 100 &#xb5;A for up to 6 minutes.
 
@@ -60,7 +60,7 @@ The cross sectional area would be 8.32mm x 1.56mm = 12.9 mm<sup>2</sup>. With cu
 
 ## How electricity affect humans body?
 
-Now that we understood the effect of biocompatible electricity on virus from past studies, we need to first understand how electricity affect human's body.
+Now that we understand the effect of biocompatible electricity on virus from past studies, we need to first understand how electricity affect human's body.
 
 First, we look into the fatal side effect of electricity. Then we look at the possible side effect of prolonged exposure of electricity to human body
 
