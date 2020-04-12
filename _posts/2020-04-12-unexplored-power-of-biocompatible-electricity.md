@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unexplored Power of Biocompatible Electricity"
-date: 2020-04-11 11:00:00 +1100
+date: 2020-04-12 13:00:00 +1100
 categories: blog
 ---
 <link rel="stylesheet" type="text/css" href="/assets/css/custom.css" />
